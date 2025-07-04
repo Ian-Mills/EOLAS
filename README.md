@@ -1,6 +1,8 @@
 # EOLAS
 A repository for the visual outputs of the EOLAS project.
 
+[TODO IAN STRUCTURE & TIDY]
+
 <img width="453" alt="Screenshot 2025-07-03 at 20 24 18" src="https://github.com/user-attachments/assets/b3fcc6c6-5ebb-4bfd-9108-445d67b6349b" />
 
 
