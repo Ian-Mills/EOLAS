@@ -21,7 +21,7 @@ A repository for the visual outputs of the EOLAS project.
 
 ### Todo
 
-- [ ] IAN STRUCTURE & TIDY  
+- [ ] Add News section and events 
 - [ ] Upload of fine tuned model 
   - [ ] License queries
 
