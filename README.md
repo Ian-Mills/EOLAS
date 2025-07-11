@@ -21,7 +21,8 @@ A repository for the visual outputs of the EOLAS project.
 
 ### Todo
 
-- [ ] Add News section and events 
+- [ ] Add News section and events
+- [ ] Upload codebase
 - [ ] Upload of fine tuned model 
   - [ ] License queries
 
