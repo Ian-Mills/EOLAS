@@ -60,4 +60,4 @@ Object recognition
 
 Chat
 
-<img width="899" alt="Screenshot 2025-07-03 at 15 42 37" src="https://github.com/user-attachments/assets/a7bdf42d-b3f3-43c0-bb73-2de8c68f5475" />
+
