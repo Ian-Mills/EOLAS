@@ -34,6 +34,11 @@ A repository for the visual outputs of the EOLAS project.
 
 - [x] Addition of project design materials 
 
+
+# News & Events
+Project page uploaded 
+[EOLAS Homepage](https://waltoninstitute.ie/projects/eolas)
+
 # REPORT MATERIALS
 ## Gantt chart progress:
 
